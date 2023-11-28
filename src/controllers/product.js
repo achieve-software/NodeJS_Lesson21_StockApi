@@ -30,7 +30,7 @@ module.exports = {
         //     data
         // })
         
-        // FOR REACT PROJECT:
+        //    FOR REACT PROJECT:
         res.status(200).send(data)
     },
 
